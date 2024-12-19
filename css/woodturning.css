@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;    
+    color: brown;
+}
+
+.header {
+    background-color: rgb(226, 171, 99);
+    top: 10px;
+    border-bottom: solid 2px #555555;
+}
+
+.content {
+    top: 5px;
+    bottom: 5px;
+    color: #555555;
+}
+
+.footer { 
+    top: 10px;
+    border-top: solid 2px #555555;
+    a:hover {
+    color: brown;}
+    
+}
